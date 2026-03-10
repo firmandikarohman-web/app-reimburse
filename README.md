@@ -18,7 +18,7 @@ Sistem Reimbursement berbasis AI yang dirancang untuk personel Polri. Sistem ini
 
 ## Cara Instalasi
 
-1. Clone Repository: `git clone <url-repo-anda>`
+1. Clone Repository: `git clone https://github.com/firmandikarohman-web/app-reimburse/`
 2. Setup Backend:
    - `cd backend`
    - `pip install -r requirements.txt`
@@ -30,3 +30,4 @@ Sistem Reimbursement berbasis AI yang dirancang untuk personel Polri. Sistem ini
 ## Kontributor
 
 - **Mabes Polri - Tim IT Presisi**
+
