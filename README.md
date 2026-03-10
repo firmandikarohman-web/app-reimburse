@@ -29,5 +29,6 @@ Sistem Reimbursement berbasis AI yang dirancang untuk personel Polri. Sistem ini
 
 ## Kontributor
 
-- **Mabes Polri - Tim IT Presisi**
+- **-**
+
 
